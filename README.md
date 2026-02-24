@@ -114,7 +114,7 @@ Optional manual trigger to process due notifications immediately.
 
 ## UML Sequence Diagram (Placeholder)
 
-![Notification Service Sequence Diagram](sequence_diagram.png)
+![Notification Service Sequence Diagram](images/sequence_diagram.png)
 
 1. Client sends `POST /schedule`
 2. Service returns `notification_id`
